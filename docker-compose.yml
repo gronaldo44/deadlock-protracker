@@ -1,0 +1,41 @@
+version: "3.9"
+
+services:
+  db:
+    image: postgres:17
+    environment:
+      POSTGRES_DB: devdb
+      POSTGRES_USER: devuser
+      POSTGRES_PASSWORD: devpass
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+
+  web:
+    build:
+      context: ./backend
+    command: python manage.py runserver 0.0.0.0:8000
+    volumes:
+      - ./backend:/app
+    ports:
+      - "8000:8000"
+    env_file:
+      - ./backend/.env
+    depends_on:
+      - db
+
+  # React dev server (only for local dev, optional to add later)
+  # frontend:
+  #   image: node:18
+  #   working_dir: /app
+  #   volumes:
+  #     - ./frontend:/app
+  #   command: ["npm", "run", "dev"]   # Vite or CRA dev command
+  #   ports:
+  #     - "5173:5173"
+  #   stdin_open: true
+  #   tty: true
+
+volumes:
+  postgres-data:
