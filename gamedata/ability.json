@@ -1,0 +1,1238 @@
+[
+  {
+    "id": 491391007,
+    "name": "Napalm",
+    "icon_key": "ability_incendiary_projectile",
+    "hero_id": 1
+  },
+  {
+    "id": 1142270357,
+    "name": "Concussive Combustion",
+    "icon_key": "ability_fire_bomb",
+    "hero_id": 1
+  },
+  {
+    "id": 1593133799,
+    "name": "Afterburn",
+    "icon_key": "ability_afterburn",
+    "hero_id": 1
+  },
+  {
+    "id": 3516947824,
+    "name": "Flame Dash",
+    "icon_key": "ability_flame_dash",
+    "hero_id": 1
+  },
+  {
+    "id": 539192269,
+    "name": "Power Surge",
+    "icon_key": "ability_power_surge",
+    "hero_id": 2
+  },
+  {
+    "id": 1065103387,
+    "name": "Lightning Ball",
+    "icon_key": "citadel_ability_lightning_ball",
+    "hero_id": 2
+  },
+  {
+    "id": 1074714947,
+    "name": "Static Charge",
+    "icon_key": "citadel_ability_static_charge",
+    "hero_id": 2
+  },
+  {
+    "id": 2061574352,
+    "name": "Storm Cloud",
+    "icon_key": "citadel_ability_storm_cloud",
+    "hero_id": 2
+  },
+  {
+    "id": 537527508,
+    "name": "Stake",
+    "icon_key": "citadel_ability_hornet_chain",
+    "hero_id": 3
+  },
+  {
+    "id": 775377419,
+    "name": "Assassinate",
+    "icon_key": "citadel_ability_hornet_snipe",
+    "hero_id": 3
+  },
+  {
+    "id": 1796564033,
+    "name": "Flight",
+    "icon_key": "citadel_ability_hornet_leap",
+    "hero_id": 3
+  },
+  {
+    "id": 2048438176,
+    "name": "Crow Familiar",
+    "icon_key": "citadel_ability_hornet_sting",
+    "hero_id": 3
+  },
+  {
+    "id": 218284420,
+    "name": "Life Drain",
+    "icon_key": "ability_life_drain",
+    "hero_id": 4
+  },
+  {
+    "id": 715325746,
+    "name": "Essence Bomb",
+    "icon_key": "ability_blood_bomb",
+    "hero_id": 4
+  },
+  {
+    "id": 1307289689,
+    "name": "Soul Exchange",
+    "icon_key": "ability_health_swap",
+    "hero_id": 4
+  },
+  {
+    "id": 3230530872,
+    "name": "Malice",
+    "icon_key": "ability_blood_shards",
+    "hero_id": 4
+  },
+  {
+    "id": 509856396,
+    "name": "Seismic Impact",
+    "icon_key": "citadel_ability_bull_leap",
+    "hero_id": 6
+  },
+  {
+    "id": 715762406,
+    "name": "Infernal Resilience",
+    "icon_key": "citadel_ability_passive_beefy",
+    "hero_id": 6
+  },
+  {
+    "id": 2824119765,
+    "name": "Shoulder Charge",
+    "icon_key": "citadel_ability_bull_charge",
+    "hero_id": 6
+  },
+  {
+    "id": 4072270083,
+    "name": "Siphon Life",
+    "icon_key": "citadel_ability_bull_heal",
+    "hero_id": 6
+  },
+  {
+    "id": 1842576017,
+    "name": "Full Auto",
+    "icon_key": "citadel_ability_wraith_rapidfire",
+    "hero_id": 7
+  },
+  {
+    "id": 1999680326,
+    "name": "Card Trick",
+    "icon_key": "citadel_ability_card_toss",
+    "hero_id": 7
+  },
+  {
+    "id": 2981692841,
+    "name": "Telekinesis",
+    "icon_key": "citadel_ability_psychic_lift",
+    "hero_id": 7
+  },
+  {
+    "id": 4147641675,
+    "name": "Project Mind",
+    "icon_key": "citadel_ability_projectmind",
+    "hero_id": 7
+  },
+  {
+    "id": 1725685134,
+    "name": "Spectral Wall",
+    "icon_key": "citadel_ability_fissure_wall",
+    "hero_id": 8
+  },
+  {
+    "id": 2142734020,
+    "name": "Medicinal Specter",
+    "icon_key": "citadel_ability_mobile_resupply",
+    "hero_id": 8
+  },
+  {
+    "id": 3133377790,
+    "name": "Mini Turret",
+    "icon_key": "citadel_ability_shieldedsentry",
+    "hero_id": 8
+  },
+  {
+    "id": 3503044146,
+    "name": "Heavy Barrage",
+    "icon_key": "citadel_ability_rocket_barrage",
+    "hero_id": 8
+  },
+  {
+    "id": 58655583,
+    "name": "Pulse Grenade",
+    "icon_key": "citadel_ability_chrono_pulse_grenade",
+    "hero_id": 10
+  },
+  {
+    "id": 1128670012,
+    "name": "Kinetic Carbine",
+    "icon_key": "citadel_ability_chrono_kinetic_carbine",
+    "hero_id": 10
+  },
+  {
+    "id": 1366719170,
+    "name": "Time Wall",
+    "icon_key": "citadel_ability_chrono_time_wall",
+    "hero_id": 10
+  },
+  {
+    "id": 2917891787,
+    "name": "Paradoxical Swap",
+    "icon_key": "citadel_ability_chrono_swap",
+    "hero_id": 10
+  },
+  {
+    "id": 249410288,
+    "name": "Singularity",
+    "icon_key": "citadel_ability_self_vacuum",
+    "hero_id": 11
+  },
+  {
+    "id": 492030745,
+    "name": "Rejuvenating Aurora",
+    "icon_key": "citadel_ability_nikuman",
+    "hero_id": 11
+  },
+  {
+    "id": 2031714424,
+    "name": "Quantum Entanglement",
+    "icon_key": "citadel_ability_void_sphere",
+    "hero_id": 11
+  },
+  {
+    "id": 3760705623,
+    "name": "Kinetic Pulse",
+    "icon_key": "citadel_ability_stomp",
+    "hero_id": 11
+  },
+  {
+    "id": 18921423,
+    "name": "Frost Grenade",
+    "icon_key": "ability_ice_grenade",
+    "hero_id": 12
+  },
+  {
+    "id": 1963397252,
+    "name": "Ice Path",
+    "icon_key": "ability_icepath",
+    "hero_id": 12
+  },
+  {
+    "id": 2351041382,
+    "name": "Arctic Beam",
+    "icon_key": "ability_icebeam",
+    "hero_id": 12
+  },
+  {
+    "id": 3826390464,
+    "name": "Frozen Shelter",
+    "icon_key": "ability_ice_dome",
+    "hero_id": 12
+  },
+  {
+    "id": 731943444,
+    "name": "Bullet Dance",
+    "icon_key": "ability_bullet_flurry",
+    "hero_id": 13
+  },
+  {
+    "id": 1080948381,
+    "name": "Fixation",
+    "icon_key": "ability_stacking_damage",
+    "hero_id": 13
+  },
+  {
+    "id": 2414191464,
+    "name": "Smoke Bomb",
+    "icon_key": "ability_smoke_bomb",
+    "hero_id": 13
+  },
+  {
+    "id": 2948410412,
+    "name": "Sleep Dagger",
+    "icon_key": "ability_sleep_dagger",
+    "hero_id": 13
+  },
+  {
+    "id": 1235098866,
+    "name": "Powder Keg",
+    "icon_key": "ability_explosive_barrel",
+    "hero_id": 14
+  },
+  {
+    "id": 2240607294,
+    "name": "Bounce Pad",
+    "icon_key": "ability_bounce_pad",
+    "hero_id": 14
+  },
+  {
+    "id": 3190606822,
+    "name": "Spirit Lasso",
+    "icon_key": "ability_gravity_lasso",
+    "hero_id": 14
+  },
+  {
+    "id": 4179229681,
+    "name": "Crackshot",
+    "icon_key": "ability_crackshot",
+    "hero_id": 14
+  },
+  {
+    "id": 1928108461,
+    "name": "Grapple Arm",
+    "icon_key": "citadel_ability_hook",
+    "hero_id": 15
+  },
+  {
+    "id": 2521902222,
+    "name": "Sticky Bomb",
+    "icon_key": "citadel_ability_sticky_bomb",
+    "hero_id": 15
+  },
+  {
+    "id": 3089858203,
+    "name": "Exploding Uppercut",
+    "icon_key": "citadel_ability_uppercut",
+    "hero_id": 15
+  },
+  {
+    "id": 3832675871,
+    "name": "Hyper Beam",
+    "icon_key": "citadel_ability_bebop_laser_beam",
+    "hero_id": 15
+  },
+  {
+    "id": 1009029159,
+    "name": "Ava",
+    "icon_key": "ability_nano_catform",
+    "hero_id": 16
+  },
+  {
+    "id": 1426567660,
+    "name": "Leaping Slash",
+    "icon_key": "ability_nano_dash",
+    "hero_id": 16
+  },
+  {
+    "id": 2054144742,
+    "name": "Return to Shadows",
+    "icon_key": "ability_nano_shadow_pulse",
+    "hero_id": 16
+  },
+  {
+    "id": 4131517918,
+    "name": "Gloom Bombs",
+    "icon_key": "ability_nano_clustergrenade",
+    "hero_id": 16
+  },
+  {
+    "id": 512733154,
+    "name": "Spirit Snare",
+    "icon_key": "ability_immobilize_trap",
+    "hero_id": 17
+  },
+  {
+    "id": 548943648,
+    "name": "Charged Shot",
+    "icon_key": "ability_charged_shot",
+    "hero_id": 17
+  },
+  {
+    "id": 3242902780,
+    "name": "Guided Owl",
+    "icon_key": "ability_guided_arrow",
+    "hero_id": 17
+  },
+  {
+    "id": 3452399392,
+    "name": "Rain of Arrows",
+    "icon_key": "ability_power_jump",
+    "hero_id": 17
+  },
+  {
+    "id": 1454278799,
+    "name": "Scorn",
+    "icon_key": "ability_intimidate",
+    "hero_id": 18
+  },
+  {
+    "id": 1914797280,
+    "name": "Sand Blast",
+    "icon_key": "ability_throw_sand",
+    "hero_id": 18
+  },
+  {
+    "id": 1917840730,
+    "name": "Combo",
+    "icon_key": "ability_ult_combo",
+    "hero_id": 18
+  },
+  {
+    "id": 2406758797,
+    "name": "Burrow",
+    "icon_key": "ability_burrow",
+    "hero_id": 18
+  },
+  {
+    "id": 1458044103,
+    "name": "Slice and Dice",
+    "icon_key": "citadel_ability_shiv_dash",
+    "hero_id": 19
+  },
+  {
+    "id": 1537272748,
+    "name": "Bloodletting",
+    "icon_key": "citadel_ability_shiv_defer_damage",
+    "hero_id": 19
+  },
+  {
+    "id": 1835738020,
+    "name": "Killing Blow",
+    "icon_key": "citadel_ability_shiv_killing_blow",
+    "hero_id": 19
+  },
+  {
+    "id": 2460791803,
+    "name": "Serrated Knives",
+    "icon_key": "citadel_ability_shiv_dagger",
+    "hero_id": 19
+  },
+  {
+    "id": 1247583368,
+    "name": "Air Drop",
+    "icon_key": "citadel_ability_tengu_airlift",
+    "hero_id": 20
+  },
+  {
+    "id": 1531378655,
+    "name": "Watcher's Covenant",
+    "icon_key": "citadel_ability_tangotether",
+    "hero_id": 20
+  },
+  {
+    "id": 3642273386,
+    "name": "Stone Form",
+    "icon_key": "citadel_ability_tengu_stone_form",
+    "hero_id": 20
+  },
+  {
+    "id": 4111222521,
+    "name": "Kudzu Bomb",
+    "icon_key": "citadel_ability_tengu_urn",
+    "hero_id": 20
+  },
+  {
+    "id": 21628267,
+    "name": "ability_kali_dust_storm",
+    "icon_key": "ability_kali_dust_storm",
+    "hero_id": 21
+  },
+  {
+    "id": 488392205,
+    "name": "ability_kali_trappers_bolo",
+    "icon_key": "ability_kali_trappers_bolo",
+    "hero_id": 21
+  },
+  {
+    "id": 3219375905,
+    "name": "citadel_ability_kali_disruptive_charge",
+    "icon_key": "citadel_ability_kali_disruptive_charge",
+    "hero_id": 21
+  },
+  {
+    "id": 4260284622,
+    "name": "citadel_ability_kali_spinning_blade",
+    "icon_key": "citadel_ability_kali_spinning_blade",
+    "hero_id": 21
+  },
+  {
+    "id": 1656913918,
+    "name": "Binding Word",
+    "icon_key": "ability_warden_lock_down",
+    "hero_id": 25
+  },
+  {
+    "id": 2656490109,
+    "name": "Alchemical Flask",
+    "icon_key": "ability_warden_crowd_control",
+    "hero_id": 25
+  },
+  {
+    "id": 2702908623,
+    "name": "Last Stand",
+    "icon_key": "ability_warden_riot_protocol",
+    "hero_id": 25
+  },
+  {
+    "id": 2751689917,
+    "name": "Willpower",
+    "icon_key": "ability_warden_high_alert",
+    "hero_id": 25
+  },
+  {
+    "id": 2366960452,
+    "name": "Crimson Slash",
+    "icon_key": "citadel_ability_healing_slash",
+    "hero_id": 27
+  },
+  {
+    "id": 2566573207,
+    "name": "Flying Strike",
+    "icon_key": "citadel_ability_flying_strike",
+    "hero_id": 27
+  },
+  {
+    "id": 3255651252,
+    "name": "Power Slash",
+    "icon_key": "citadel_ability_power_slash",
+    "hero_id": 27
+  },
+  {
+    "id": 3319782965,
+    "name": "Shadow Transformation",
+    "icon_key": "citadel_ability_infinity_slash",
+    "hero_id": 27
+  },
+  {
+    "id": 397010810,
+    "name": "Death Slam",
+    "icon_key": "citadel_ability_lash_ultimate",
+    "hero_id": 31
+  },
+  {
+    "id": 519124136,
+    "name": "Flog",
+    "icon_key": "ability_lash_flog",
+    "hero_id": 31
+  },
+  {
+    "id": 2670099061,
+    "name": "Grapple",
+    "icon_key": "citadel_ability_lash",
+    "hero_id": 31
+  },
+  {
+    "id": 3561817145,
+    "name": "Ground Strike",
+    "icon_key": "citadel_ability_lash_down_strike",
+    "hero_id": 31
+  },
+  {
+    "id": 1020817390,
+    "name": "Puddle Punch",
+    "icon_key": "viscous_telepunch",
+    "hero_id": 35
+  },
+  {
+    "id": 3247040238,
+    "name": "Splatter",
+    "icon_key": "viscous_goo_grenade",
+    "hero_id": 35
+  },
+  {
+    "id": 3788152387,
+    "name": "The Cube",
+    "icon_key": "viscous_restorative_goo",
+    "hero_id": 35
+  },
+  {
+    "id": 4206531918,
+    "name": "Goo Ball",
+    "icon_key": "viscous_goo_bowling_ball",
+    "hero_id": 35
+  },
+  {
+    "id": 289749826,
+    "name": "gunslinger_knockbackblast",
+    "icon_key": "gunslinger_knockbackblast",
+    "hero_id": 38
+  },
+  {
+    "id": 2839987102,
+    "name": "Infernal Brand",
+    "icon_key": "gunslinger_demonMark",
+    "hero_id": 38
+  },
+  {
+    "id": 3248109871,
+    "name": "Demontrigger Blitz",
+    "icon_key": "ability_gunslinger_salvo",
+    "hero_id": 38
+  },
+  {
+    "id": 1584495732,
+    "name": "yakuza_protection_racket",
+    "icon_key": "yakuza_protection_racket",
+    "hero_id": 39
+  },
+  {
+    "id": 2984400727,
+    "name": "yakuza_kobun",
+    "icon_key": "yakuza_kobun",
+    "hero_id": 39
+  },
+  {
+    "id": 3577477084,
+    "name": "yakuza_shakedown_target",
+    "icon_key": "yakuza_shakedown_target",
+    "hero_id": 39
+  },
+  {
+    "id": 3908497730,
+    "name": "yakuza_setting_sun",
+    "icon_key": "yakuza_setting_sun",
+    "hero_id": 39
+  },
+  {
+    "id": 1498385915,
+    "name": "tokamak_radiance",
+    "icon_key": "tokamak_radiance",
+    "hero_id": 47
+  },
+  {
+    "id": 1564303265,
+    "name": "tokamak_hot_shot",
+    "icon_key": "tokamak_hot_shot",
+    "hero_id": 47
+  },
+  {
+    "id": 4042747505,
+    "name": "tokamak_dying_star",
+    "icon_key": "tokamak_dying_star",
+    "hero_id": 47
+  },
+  {
+    "id": 4264339460,
+    "name": "tokamak_crimson_cannon",
+    "icon_key": "tokamak_crimson_cannon",
+    "hero_id": 47
+  },
+  {
+    "id": 208809857,
+    "name": "Consume",
+    "icon_key": "ability_wrecker_salvage",
+    "hero_id": 48
+  },
+  {
+    "id": 2153275594,
+    "name": "Wrecking Ball",
+    "icon_key": "citadel_ability_wrecker_bouldergrenade",
+    "hero_id": 48
+  },
+  {
+    "id": 3422822440,
+    "name": "Bio Blast",
+    "icon_key": "ability_scrap_blast",
+    "hero_id": 48
+  },
+  {
+    "id": 3426178920,
+    "name": "Overload",
+    "icon_key": "citadel_ability_wrecker_garbage_suck",
+    "hero_id": 48
+  },
+  {
+    "id": 363299194,
+    "name": "rutger_pulse",
+    "icon_key": "rutger_pulse",
+    "hero_id": 49
+  },
+  {
+    "id": 639385332,
+    "name": "rutger_force_field",
+    "icon_key": "rutger_force_field",
+    "hero_id": 49
+  },
+  {
+    "id": 1613872264,
+    "name": "rutger_cheat_death",
+    "icon_key": "rutger_cheat_death",
+    "hero_id": 49
+  },
+  {
+    "id": 4182904284,
+    "name": "rutger_rocket",
+    "icon_key": "rutger_rocket",
+    "hero_id": 49
+  },
+  {
+    "id": 938149308,
+    "name": "Barrage",
+    "icon_key": "synth_barrage",
+    "hero_id": 50
+  },
+  {
+    "id": 1976701714,
+    "name": "Flying Cloak",
+    "icon_key": "synth_plasma_flux",
+    "hero_id": 50
+  },
+  {
+    "id": 2954330093,
+    "name": "Affliction",
+    "icon_key": "synth_affliction",
+    "hero_id": 50
+  },
+  {
+    "id": 3747867012,
+    "name": "Enchanter's Satchel",
+    "icon_key": "synth_pulse",
+    "hero_id": 50
+  },
+  {
+    "id": 348689004,
+    "name": "thumper_ability_1",
+    "icon_key": "thumper_ability_1",
+    "hero_id": 51
+  },
+  {
+    "id": 2086284285,
+    "name": "thumper_ability_2",
+    "icon_key": "thumper_ability_2",
+    "hero_id": 51
+  },
+  {
+    "id": 2489807574,
+    "name": "thumper_ability_3",
+    "icon_key": "thumper_ability_3",
+    "hero_id": 51
+  },
+  {
+    "id": 2563620507,
+    "name": "thumper_ability_4",
+    "icon_key": "thumper_ability_4",
+    "hero_id": 51
+  },
+  {
+    "id": 1336069669,
+    "name": "Tornado",
+    "icon_key": "mirage_tornado",
+    "hero_id": 52
+  },
+  {
+    "id": 2221949202,
+    "name": "Djinn's Mark",
+    "icon_key": "mirage_sand_phantom",
+    "hero_id": 52
+  },
+  {
+    "id": 2604653402,
+    "name": "Traveler",
+    "icon_key": "mirage_teleport",
+    "hero_id": 52
+  },
+  {
+    "id": 3733594387,
+    "name": "Fire Scarabs",
+    "icon_key": "mirage_fire_beetles",
+    "hero_id": 52
+  },
+  {
+    "id": 421275722,
+    "name": "cadence_ability_silencecontraptions",
+    "icon_key": "cadence_ability_silencecontraptions",
+    "hero_id": 54
+  },
+  {
+    "id": 599532073,
+    "name": "cadence_ability_crescendo",
+    "icon_key": "cadence_ability_crescendo",
+    "hero_id": 54
+  },
+  {
+    "id": 957095276,
+    "name": "cadence_ability_lullaby",
+    "icon_key": "cadence_ability_lullaby",
+    "hero_id": 54
+  },
+  {
+    "id": 1157620447,
+    "name": "cadence_ability_anthem",
+    "icon_key": "cadence_ability_anthem",
+    "hero_id": 54
+  },
+  {
+    "id": 3232290270,
+    "name": "ability_bomber_ult",
+    "icon_key": "ability_bomber_ult",
+    "hero_id": 56
+  },
+  {
+    "id": 3338528319,
+    "name": "ability_charged_bomb",
+    "icon_key": "ability_charged_bomb",
+    "hero_id": 56
+  },
+  {
+    "id": 3875361929,
+    "name": "ability_bomber_ability02",
+    "icon_key": "ability_bomber_ability02",
+    "hero_id": 56
+  },
+  {
+    "id": 4081662205,
+    "name": "ability_bomber_ability03",
+    "icon_key": "ability_bomber_ability03",
+    "hero_id": 56
+  },
+  {
+    "id": 1105433407,
+    "name": "ability_shieldguy_ability03",
+    "icon_key": "ability_shieldguy_ability03",
+    "hero_id": 57
+  },
+  {
+    "id": 2322200384,
+    "name": "ability_shieldguy_ability02",
+    "icon_key": "ability_shieldguy_ability02",
+    "hero_id": 57
+  },
+  {
+    "id": 2824729668,
+    "name": "ability_shieldguy_ult",
+    "icon_key": "ability_shieldguy_ult",
+    "hero_id": 57
+  },
+  {
+    "id": 2935955509,
+    "name": "ability_shieldguy_ability01",
+    "icon_key": "ability_shieldguy_ability01",
+    "hero_id": 57
+  },
+  {
+    "id": 645773760,
+    "name": "Screwjab Dagger",
+    "icon_key": "ability_viper_debuffdagger",
+    "hero_id": 58
+  },
+  {
+    "id": 1469918191,
+    "name": "Slither",
+    "icon_key": "ability_viper_snakedash",
+    "hero_id": 58
+  },
+  {
+    "id": 1594727071,
+    "name": "Petrifying Bola",
+    "icon_key": "ability_viper_petrifybola",
+    "hero_id": 58
+  },
+  {
+    "id": 3428732129,
+    "name": "Lethal Venom",
+    "icon_key": "ability_viper_venom",
+    "hero_id": 58
+  },
+  {
+    "id": 371372145,
+    "name": "ability_haunt",
+    "icon_key": "ability_haunt",
+    "hero_id": 59
+  },
+  {
+    "id": 916959628,
+    "name": "citadel_ability_vandal_overflow",
+    "icon_key": "citadel_ability_vandal_overflow",
+    "hero_id": 59
+  },
+  {
+    "id": 1288133032,
+    "name": "citadel_ability_vandal_surge",
+    "icon_key": "citadel_ability_vandal_surge",
+    "hero_id": 59
+  },
+  {
+    "id": 2833514487,
+    "name": "ability_vandal_pillar",
+    "icon_key": "ability_vandal_pillar",
+    "hero_id": 59
+  },
+  {
+    "id": 12456023,
+    "name": "Spectral Assistant",
+    "icon_key": "ability_magician_cloneturret",
+    "hero_id": 60
+  },
+  {
+    "id": 191022746,
+    "name": "Audience Participation",
+    "icon_key": "ability_magician_copyult",
+    "hero_id": 60
+  },
+  {
+    "id": 2142213586,
+    "name": "Rabbit Hex",
+    "icon_key": "ability_magician_animalhexarea",
+    "hero_id": 60
+  },
+  {
+    "id": 3156905386,
+    "name": "Vexing Bolt",
+    "icon_key": "ability_magician_magicbolt",
+    "hero_id": 60
+  },
+  {
+    "id": 2675680636,
+    "name": "Bottled Phantasmicide",
+    "icon_key": "ability_trapper_poisonjar",
+    "hero_id": 61
+  },
+  {
+    "id": 2876116869,
+    "name": "Crawling Plague",
+    "icon_key": "ability_trapper_spiderwave",
+    "hero_id": 61
+  },
+  {
+    "id": 3322902852,
+    "name": "Pest Barrier",
+    "icon_key": "ability_trapper_spidershield",
+    "hero_id": 61
+  },
+  {
+    "id": 3360792911,
+    "name": "Silktrap",
+    "icon_key": "ability_trapper_webwall",
+    "hero_id": 61
+  },
+  {
+    "id": 1101238302,
+    "name": "Revelation",
+    "icon_key": "operative_revelation",
+    "hero_id": 62
+  },
+  {
+    "id": 1773588524,
+    "name": "Blindside",
+    "icon_key": "operative_blindside",
+    "hero_id": 62
+  },
+  {
+    "id": 4210991587,
+    "name": "Umbrella Maneuver",
+    "icon_key": "operative_umbrella_maneuver",
+    "hero_id": 62
+  },
+  {
+    "id": 193508101,
+    "name": "Rake",
+    "icon_key": "ability_vampirebat_steallife",
+    "hero_id": 63
+  },
+  {
+    "id": 1233782561,
+    "name": "Love Bites",
+    "icon_key": "ability_vampirebat_lovebites",
+    "hero_id": 63
+  },
+  {
+    "id": 2398133749,
+    "name": "Sanguine Retreat",
+    "icon_key": "ability_vampirebat_batblink",
+    "hero_id": 63
+  },
+  {
+    "id": 3379486147,
+    "name": "Nox Nostra",
+    "icon_key": "ability_vampirebat_batswarm",
+    "hero_id": 63
+  },
+  {
+    "id": 1033019133,
+    "name": "Bloodscent",
+    "icon_key": "ability_drifter_hunger",
+    "hero_id": 64
+  },
+  {
+    "id": 1168182161,
+    "name": "Eternal Night",
+    "icon_key": "drifter_darkness",
+    "hero_id": 64
+  },
+  {
+    "id": 1264175662,
+    "name": "Stalker's Mark",
+    "icon_key": "drifter_shadow_mark",
+    "hero_id": 64
+  },
+  {
+    "id": 3120550633,
+    "name": "Rend",
+    "icon_key": "drifter_blood_blast",
+    "hero_id": 64
+  },
+  {
+    "id": 911307831,
+    "name": "ability_priest_flashbang",
+    "icon_key": "ability_priest_flashbang",
+    "hero_id": 65
+  },
+  {
+    "id": 1764146857,
+    "name": "ability_priest_knockback",
+    "icon_key": "ability_priest_knockback",
+    "hero_id": 65
+  },
+  {
+    "id": 2260066289,
+    "name": "ability_priest_stackingdefense",
+    "icon_key": "ability_priest_stackingdefense",
+    "hero_id": 65
+  },
+  {
+    "id": 2918874166,
+    "name": "ability_priest_weaponswap",
+    "icon_key": "ability_priest_weaponswap",
+    "hero_id": 65
+  },
+  {
+    "id": 1472593493,
+    "name": "Aura of Suffering",
+    "icon_key": "ability_frank_painaura",
+    "hero_id": 66
+  },
+  {
+    "id": 2043074967,
+    "name": "Pain Battery",
+    "icon_key": "ability_frank_shocktarget2",
+    "hero_id": 66
+  },
+  {
+    "id": 3493884851,
+    "name": "Shocking Reanimation",
+    "icon_key": "ability_frank_revive",
+    "hero_id": 66
+  },
+  {
+    "id": 3727084744,
+    "name": "Jumpstart",
+    "icon_key": "ability_frank_selfzap",
+    "hero_id": 66
+  },
+  {
+    "id": 604448162,
+    "name": "Conjure Dragon",
+    "icon_key": "ability_bookworm_dragonfire",
+    "hero_id": 67
+  },
+  {
+    "id": 1841901343,
+    "name": "Rallying Charge",
+    "icon_key": "ability_bookworm_knightcharge",
+    "hero_id": 67
+  },
+  {
+    "id": 3054993162,
+    "name": "Captivating Read",
+    "icon_key": "ability_bookworm_aoemagic",
+    "hero_id": 67
+  },
+  {
+    "id": 3553292912,
+    "name": "Defend and Fight!",
+    "icon_key": "ability_bookworm_knightbarrier",
+    "hero_id": 67
+  },
+  {
+    "id": 370209602,
+    "name": "Intertwine",
+    "icon_key": "ability_boho_damageshare",
+    "hero_id": 68
+  },
+  {
+    "id": 759370291,
+    "name": "ability_boho_channeltether",
+    "icon_key": "ability_boho_channeltether",
+    "hero_id": 68
+  },
+  {
+    "id": 2000761890,
+    "name": "Skipshot",
+    "icon_key": "ability_boho_bouncyprojectile",
+    "hero_id": 68
+  },
+  {
+    "id": 3962304265,
+    "name": "Swish",
+    "icon_key": "ability_boho_doublehit",
+    "hero_id": 68
+  },
+  {
+    "id": 103496908,
+    "name": "Call Bell",
+    "icon_key": "ability_doorman_bomb",
+    "hero_id": 69
+  },
+  {
+    "id": 109766091,
+    "name": "Doorway",
+    "icon_key": "ability_doorman_doorway",
+    "hero_id": 69
+  },
+  {
+    "id": 1703045691,
+    "name": "Hotel Guest",
+    "icon_key": "ability_doorman_hotel",
+    "hero_id": 69
+  },
+  {
+    "id": 1719512318,
+    "name": "Luggage Cart",
+    "icon_key": "ability_doorman_luggage_cart",
+    "hero_id": 69
+  },
+  {
+    "id": 201562678,
+    "name": "Lifethread",
+    "icon_key": "ability_skyrunner_swingline",
+    "hero_id": 70
+  },
+  {
+    "id": 228680142,
+    "name": "Flakshot",
+    "icon_key": "ability_skyrunner_flakshot",
+    "hero_id": 70
+  },
+  {
+    "id": 3449758496,
+    "name": "ability_skyrunner_magic_beam",
+    "icon_key": "ability_skyrunner_magic_beam",
+    "hero_id": 70
+  },
+  {
+    "id": 682591488,
+    "name": "Jeté",
+    "icon_key": "ability_swan_leap",
+    "hero_id": 71
+  },
+  {
+    "id": 1048488396,
+    "name": "ability_swan_ult",
+    "icon_key": "ability_swan_ult",
+    "hero_id": 71
+  },
+  {
+    "id": 1418303954,
+    "name": "Acrobat",
+    "icon_key": "ability_swan_acrobat",
+    "hero_id": 71
+  },
+  {
+    "id": 2619369142,
+    "name": "ability_swan_featherboomerang",
+    "icon_key": "ability_swan_featherboomerang",
+    "hero_id": 71
+  },
+  {
+    "id": 1792773251,
+    "name": "Rising Ram",
+    "icon_key": "ability_punkgoat_goatflip",
+    "hero_id": 72
+  },
+  {
+    "id": 1841661392,
+    "name": "Bashdown",
+    "icon_key": "ability_punkgoat_ult",
+    "hero_id": 72
+  },
+  {
+    "id": 3152475531,
+    "name": "ability_punkgoat_slide",
+    "icon_key": "ability_punkgoat_slide",
+    "hero_id": 72
+  },
+  {
+    "id": 3296031213,
+    "name": "Blasted",
+    "icon_key": "ability_punkgoat_blasted",
+    "hero_id": 72
+  },
+  {
+    "id": 3762861984,
+    "name": "Chain Gang",
+    "icon_key": "ability_punkgoat_tether",
+    "hero_id": 72
+  },
+  {
+    "id": 1077190862,
+    "name": "ability_druid_ability02",
+    "icon_key": "ability_druid_ability02",
+    "hero_id": 73
+  },
+  {
+    "id": 2510227556,
+    "name": "ability_druid_ult",
+    "icon_key": "ability_druid_ult",
+    "hero_id": 73
+  },
+  {
+    "id": 2800600819,
+    "name": "ability_druid_sprout",
+    "icon_key": "ability_druid_sprout",
+    "hero_id": 73
+  },
+  {
+    "id": 3603780999,
+    "name": "ability_druid_ability01",
+    "icon_key": "ability_druid_ability01",
+    "hero_id": 73
+  },
+  {
+    "id": 2561043068,
+    "name": "ability_graf_ult",
+    "icon_key": "ability_graf_ult",
+    "hero_id": 74
+  },
+  {
+    "id": 2627122290,
+    "name": "ability_graf_ability01",
+    "icon_key": "ability_graf_ability01",
+    "hero_id": 74
+  },
+  {
+    "id": 2949458312,
+    "name": "ability_graf_ability03",
+    "icon_key": "ability_graf_ability03",
+    "hero_id": 74
+  },
+  {
+    "id": 4197612718,
+    "name": "ability_graf_ability02",
+    "icon_key": "ability_graf_ability02",
+    "hero_id": 74
+  },
+  {
+    "id": 309803113,
+    "name": "ability_fortuna_ability01",
+    "icon_key": "ability_fortuna_ability01",
+    "hero_id": 75
+  },
+  {
+    "id": 620778714,
+    "name": "ability_fortuna_ability03",
+    "icon_key": "ability_fortuna_ability03",
+    "hero_id": 75
+  },
+  {
+    "id": 3632058121,
+    "name": "ability_fortuna_ult",
+    "icon_key": "ability_fortuna_ult",
+    "hero_id": 75
+  },
+  {
+    "id": 3803152704,
+    "name": "ability_fortuna_ability02",
+    "icon_key": "ability_fortuna_ability02",
+    "hero_id": 75
+  }
+]
