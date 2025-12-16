@@ -1,0 +1,207 @@
+"ability_id","name","icon_key","hero_id"
+491391007,"Napalm","ability_incendiary_projectile",1
+1142270357,"Concussive Combustion","ability_fire_bomb",1
+1593133799,"Afterburn","ability_afterburn",1
+3516947824,"Flame Dash","ability_flame_dash",1
+539192269,"Power Surge","ability_power_surge",2
+1065103387,"Lightning Ball","citadel_ability_lightning_ball",2
+1074714947,"Static Charge","citadel_ability_static_charge",2
+2061574352,"Storm Cloud","citadel_ability_storm_cloud",2
+537527508,"Stake","citadel_ability_hornet_chain",3
+775377419,"Assassinate","citadel_ability_hornet_snipe",3
+1796564033,"Flight","citadel_ability_hornet_leap",3
+2048438176,"Crow Familiar","citadel_ability_hornet_sting",3
+218284420,"Life Drain","ability_life_drain",4
+715325746,"Essence Bomb","ability_blood_bomb",4
+1307289689,"Soul Exchange","ability_health_swap",4
+3230530872,"Malice","ability_blood_shards",4
+509856396,"Seismic Impact","citadel_ability_bull_leap",6
+715762406,"Infernal Resilience","citadel_ability_passive_beefy",6
+2824119765,"Shoulder Charge","citadel_ability_bull_charge",6
+4072270083,"Siphon Life","citadel_ability_bull_heal",6
+1842576017,"Full Auto","citadel_ability_wraith_rapidfire",7
+1999680326,"Card Trick","citadel_ability_card_toss",7
+2981692841,"Telekinesis","citadel_ability_psychic_lift",7
+4147641675,"Project Mind","citadel_ability_projectmind",7
+1725685134,"Spectral Wall","citadel_ability_fissure_wall",8
+2142734020,"Medicinal Specter","citadel_ability_mobile_resupply",8
+3133377790,"Mini Turret","citadel_ability_shieldedsentry",8
+3503044146,"Heavy Barrage","citadel_ability_rocket_barrage",8
+58655583,"Pulse Grenade","citadel_ability_chrono_pulse_grenade",10
+1128670012,"Kinetic Carbine","citadel_ability_chrono_kinetic_carbine",10
+1366719170,"Time Wall","citadel_ability_chrono_time_wall",10
+2917891787,"Paradoxical Swap","citadel_ability_chrono_swap",10
+249410288,"Singularity","citadel_ability_self_vacuum",11
+492030745,"Rejuvenating Aurora","citadel_ability_nikuman",11
+2031714424,"Quantum Entanglement","citadel_ability_void_sphere",11
+3760705623,"Kinetic Pulse","citadel_ability_stomp",11
+18921423,"Frost Grenade","ability_ice_grenade",12
+1963397252,"Ice Path","ability_icepath",12
+2351041382,"Arctic Beam","ability_icebeam",12
+3826390464,"Frozen Shelter","ability_ice_dome",12
+731943444,"Bullet Dance","ability_bullet_flurry",13
+1080948381,"Fixation","ability_stacking_damage",13
+2414191464,"Smoke Bomb","ability_smoke_bomb",13
+2948410412,"Sleep Dagger","ability_sleep_dagger",13
+1235098866,"Powder Keg","ability_explosive_barrel",14
+2240607294,"Bounce Pad","ability_bounce_pad",14
+3190606822,"Spirit Lasso","ability_gravity_lasso",14
+4179229681,"Crackshot","ability_crackshot",14
+1928108461,"Grapple Arm","citadel_ability_hook",15
+2521902222,"Sticky Bomb","citadel_ability_sticky_bomb",15
+3089858203,"Exploding Uppercut","citadel_ability_uppercut",15
+3832675871,"Hyper Beam","citadel_ability_bebop_laser_beam",15
+1009029159,"Ava","ability_nano_catform",16
+1426567660,"Leaping Slash","ability_nano_dash",16
+2054144742,"Return to Shadows","ability_nano_shadow_pulse",16
+4131517918,"Gloom Bombs","ability_nano_clustergrenade",16
+512733154,"Spirit Snare","ability_immobilize_trap",17
+548943648,"Charged Shot","ability_charged_shot",17
+3242902780,"Guided Owl","ability_guided_arrow",17
+3452399392,"Rain of Arrows","ability_power_jump",17
+1454278799,"Scorn","ability_intimidate",18
+1914797280,"Sand Blast","ability_throw_sand",18
+1917840730,"Combo","ability_ult_combo",18
+2406758797,"Burrow","ability_burrow",18
+1458044103,"Slice and Dice","citadel_ability_shiv_dash",19
+1537272748,"Bloodletting","citadel_ability_shiv_defer_damage",19
+1835738020,"Killing Blow","citadel_ability_shiv_killing_blow",19
+2460791803,"Serrated Knives","citadel_ability_shiv_dagger",19
+1247583368,"Air Drop","citadel_ability_tengu_airlift",20
+1531378655,"Watcher's Covenant","citadel_ability_tangotether",20
+3642273386,"Stone Form","citadel_ability_tengu_stone_form",20
+4111222521,"Kudzu Bomb","citadel_ability_tengu_urn",20
+21628267,"ability_kali_dust_storm","ability_kali_dust_storm",21
+488392205,"ability_kali_trappers_bolo","ability_kali_trappers_bolo",21
+3219375905,"citadel_ability_kali_disruptive_charge","citadel_ability_kali_disruptive_charge",21
+4260284622,"citadel_ability_kali_spinning_blade","citadel_ability_kali_spinning_blade",21
+1656913918,"Binding Word","ability_warden_lock_down",25
+2656490109,"Alchemical Flask","ability_warden_crowd_control",25
+2702908623,"Last Stand","ability_warden_riot_protocol",25
+2751689917,"Willpower","ability_warden_high_alert",25
+2366960452,"Crimson Slash","citadel_ability_healing_slash",27
+2566573207,"Flying Strike","citadel_ability_flying_strike",27
+3255651252,"Power Slash","citadel_ability_power_slash",27
+3319782965,"Shadow Transformation","citadel_ability_infinity_slash",27
+397010810,"Death Slam","citadel_ability_lash_ultimate",31
+519124136,"Flog","ability_lash_flog",31
+2670099061,"Grapple","citadel_ability_lash",31
+3561817145,"Ground Strike","citadel_ability_lash_down_strike",31
+1020817390,"Puddle Punch","viscous_telepunch",35
+3247040238,"Splatter","viscous_goo_grenade",35
+3788152387,"The Cube","viscous_restorative_goo",35
+4206531918,"Goo Ball","viscous_goo_bowling_ball",35
+289749826,"gunslinger_knockbackblast","gunslinger_knockbackblast",38
+2839987102,"Infernal Brand","gunslinger_demonMark",38
+3248109871,"Demontrigger Blitz","ability_gunslinger_salvo",38
+1584495732,"yakuza_protection_racket","yakuza_protection_racket",39
+2984400727,"yakuza_kobun","yakuza_kobun",39
+3577477084,"yakuza_shakedown_target","yakuza_shakedown_target",39
+3908497730,"yakuza_setting_sun","yakuza_setting_sun",39
+1498385915,"tokamak_radiance","tokamak_radiance",47
+1564303265,"tokamak_hot_shot","tokamak_hot_shot",47
+4042747505,"tokamak_dying_star","tokamak_dying_star",47
+4264339460,"tokamak_crimson_cannon","tokamak_crimson_cannon",47
+208809857,"Consume","ability_wrecker_salvage",48
+2153275594,"Wrecking Ball","citadel_ability_wrecker_bouldergrenade",48
+3422822440,"Bio Blast","ability_scrap_blast",48
+3426178920,"Overload","citadel_ability_wrecker_garbage_suck",48
+363299194,"rutger_pulse","rutger_pulse",49
+639385332,"rutger_force_field","rutger_force_field",49
+1613872264,"rutger_cheat_death","rutger_cheat_death",49
+4182904284,"rutger_rocket","rutger_rocket",49
+938149308,"Barrage","synth_barrage",50
+1976701714,"Flying Cloak","synth_plasma_flux",50
+2954330093,"Affliction","synth_affliction",50
+3747867012,"Enchanter's Satchel","synth_pulse",50
+348689004,"thumper_ability_1","thumper_ability_1",51
+2086284285,"thumper_ability_2","thumper_ability_2",51
+2489807574,"thumper_ability_3","thumper_ability_3",51
+2563620507,"thumper_ability_4","thumper_ability_4",51
+1336069669,"Tornado","mirage_tornado",52
+2221949202,"Djinn's Mark","mirage_sand_phantom",52
+2604653402,"Traveler","mirage_teleport",52
+3733594387,"Fire Scarabs","mirage_fire_beetles",52
+421275722,"cadence_ability_silencecontraptions","cadence_ability_silencecontraptions",54
+599532073,"cadence_ability_crescendo","cadence_ability_crescendo",54
+957095276,"cadence_ability_lullaby","cadence_ability_lullaby",54
+1157620447,"cadence_ability_anthem","cadence_ability_anthem",54
+3232290270,"ability_bomber_ult","ability_bomber_ult",56
+3338528319,"ability_charged_bomb","ability_charged_bomb",56
+3875361929,"ability_bomber_ability02","ability_bomber_ability02",56
+4081662205,"ability_bomber_ability03","ability_bomber_ability03",56
+1105433407,"ability_shieldguy_ability03","ability_shieldguy_ability03",57
+2322200384,"ability_shieldguy_ability02","ability_shieldguy_ability02",57
+2824729668,"ability_shieldguy_ult","ability_shieldguy_ult",57
+2935955509,"ability_shieldguy_ability01","ability_shieldguy_ability01",57
+645773760,"Screwjab Dagger","ability_viper_debuffdagger",58
+1469918191,"Slither","ability_viper_snakedash",58
+1594727071,"Petrifying Bola","ability_viper_petrifybola",58
+3428732129,"Lethal Venom","ability_viper_venom",58
+371372145,"ability_haunt","ability_haunt",59
+916959628,"citadel_ability_vandal_overflow","citadel_ability_vandal_overflow",59
+1288133032,"citadel_ability_vandal_surge","citadel_ability_vandal_surge",59
+2833514487,"ability_vandal_pillar","ability_vandal_pillar",59
+12456023,"Spectral Assistant","ability_magician_cloneturret",60
+191022746,"Audience Participation","ability_magician_copyult",60
+2142213586,"Rabbit Hex","ability_magician_animalhexarea",60
+3156905386,"Vexing Bolt","ability_magician_magicbolt",60
+2675680636,"Bottled Phantasmicide","ability_trapper_poisonjar",61
+2876116869,"Crawling Plague","ability_trapper_spiderwave",61
+3322902852,"Pest Barrier","ability_trapper_spidershield",61
+3360792911,"Silktrap","ability_trapper_webwall",61
+1101238302,"Revelation","operative_revelation",62
+1773588524,"Blindside","operative_blindside",62
+4210991587,"Umbrella Maneuver","operative_umbrella_maneuver",62
+193508101,"Rake","ability_vampirebat_steallife",63
+1233782561,"Love Bites","ability_vampirebat_lovebites",63
+2398133749,"Sanguine Retreat","ability_vampirebat_batblink",63
+3379486147,"Nox Nostra","ability_vampirebat_batswarm",63
+1033019133,"Bloodscent","ability_drifter_hunger",64
+1168182161,"Eternal Night","drifter_darkness",64
+1264175662,"Stalker's Mark","drifter_shadow_mark",64
+3120550633,"Rend","drifter_blood_blast",64
+911307831,"ability_priest_flashbang","ability_priest_flashbang",65
+1764146857,"ability_priest_knockback","ability_priest_knockback",65
+2260066289,"ability_priest_stackingdefense","ability_priest_stackingdefense",65
+2918874166,"ability_priest_weaponswap","ability_priest_weaponswap",65
+1472593493,"Aura of Suffering","ability_frank_painaura",66
+2043074967,"Pain Battery","ability_frank_shocktarget2",66
+3493884851,"Shocking Reanimation","ability_frank_revive",66
+3727084744,"Jumpstart","ability_frank_selfzap",66
+604448162,"Conjure Dragon","ability_bookworm_dragonfire",67
+1841901343,"Rallying Charge","ability_bookworm_knightcharge",67
+3054993162,"Captivating Read","ability_bookworm_aoemagic",67
+3553292912,"Defend and Fight!","ability_bookworm_knightbarrier",67
+370209602,"Intertwine","ability_boho_damageshare",68
+759370291,"ability_boho_channeltether","ability_boho_channeltether",68
+2000761890,"Skipshot","ability_boho_bouncyprojectile",68
+3962304265,"Swish","ability_boho_doublehit",68
+103496908,"Call Bell","ability_doorman_bomb",69
+109766091,"Doorway","ability_doorman_doorway",69
+1703045691,"Hotel Guest","ability_doorman_hotel",69
+1719512318,"Luggage Cart","ability_doorman_luggage_cart",69
+201562678,"Lifethread","ability_skyrunner_swingline",70
+228680142,"Flakshot","ability_skyrunner_flakshot",70
+3449758496,"ability_skyrunner_magic_beam","ability_skyrunner_magic_beam",70
+682591488,"Jeté","ability_swan_leap",71
+1048488396,"ability_swan_ult","ability_swan_ult",71
+1418303954,"Acrobat","ability_swan_acrobat",71
+2619369142,"ability_swan_featherboomerang","ability_swan_featherboomerang",71
+1792773251,"Rising Ram","ability_punkgoat_goatflip",72
+1841661392,"Bashdown","ability_punkgoat_ult",72
+3152475531,"ability_punkgoat_slide","ability_punkgoat_slide",72
+3296031213,"Blasted","ability_punkgoat_blasted",72
+3762861984,"Chain Gang","ability_punkgoat_tether",72
+1077190862,"ability_druid_ability02","ability_druid_ability02",73
+2510227556,"ability_druid_ult","ability_druid_ult",73
+2800600819,"ability_druid_sprout","ability_druid_sprout",73
+3603780999,"ability_druid_ability01","ability_druid_ability01",73
+2561043068,"ability_graf_ult","ability_graf_ult",74
+2627122290,"ability_graf_ability01","ability_graf_ability01",74
+2949458312,"ability_graf_ability03","ability_graf_ability03",74
+4197612718,"ability_graf_ability02","ability_graf_ability02",74
+309803113,"ability_fortuna_ability01","ability_fortuna_ability01",75
+620778714,"ability_fortuna_ability03","ability_fortuna_ability03",75
+3632058121,"ability_fortuna_ult","ability_fortuna_ult",75
+3803152704,"ability_fortuna_ability02","ability_fortuna_ability02",75
